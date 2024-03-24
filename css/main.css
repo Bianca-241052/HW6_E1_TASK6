@@ -334,6 +334,7 @@ fieldset{
 background-color: #ff0084;
 }
 
+
 @media (max-width :800px) {
     .flexContainer{
         flex-direction: column;
